@@ -16,6 +16,16 @@ body {
     
  
 }
+.Main_quote{
+    text-align: end;
+    height: 6rem;
+    left: 20px;
+    top: 2%;
+    position: absolute;
+   
+}
+
+
 
 .main-btn{
     text-align: center;
