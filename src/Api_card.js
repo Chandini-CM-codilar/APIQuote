@@ -21,7 +21,7 @@ class Api_card extends Component {
         return (
             <div className='Main_card'>
                 <div className='Main_color'>
-                    <img className='Main_quote' src="quote.png" alt='quote_image' />
+               
 
                     <div className='main-btn'>
                         <img onClick={this.newQuote} src="button.png" alt="button" />
