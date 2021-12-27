@@ -1,0 +1,56 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+.Main_color{
+    background-color: white;
+ 
+  top: 25%;
+  left: 30%;
+  transform: translate(-5%,-10%);
+ position: absolute;
+    height: 30rem;
+    width: 45%;
+    
+ 
+}
+.Main_quote{
+    text-align: end;
+  
+    height: 6rem;
+    left: 20px;
+    top: 2%;
+    position: absolute;
+   
+}
+.main-btn{
+    text-align: center;
+}
+img {
+    cursor: pointer;
+    height: 2rem;
+    width: 3rem;
+    position: fixed;
+    right: 0;
+    top: 50%;
+}
+
+
+.main-btn2 {
+    cursor: pointer;
+    height: 2rem;
+    width: 3rem;
+    position: fixed;
+    left: 0;
+    top: 50%;
+}
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    padding: 12rem 4%;               
+    text-align: center;
+}
